@@ -1,0 +1,8 @@
+{
+  "name": "Remix تطبيقي | My Web App",
+  "description": "تطبيق ويب تفاعلي متكامل يدعم اللغة العربية والإنجليزية مبني بأحدث التقنيات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
